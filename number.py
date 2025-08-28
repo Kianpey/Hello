@@ -9,7 +9,7 @@ while True:
         break
     
     elif number>choiced:
-        print("your number is bigeer than choiced number")
+        print("your number is bigger than choiced number")
         continue
     
     elif number<choiced:
