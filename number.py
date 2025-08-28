@@ -1,6 +1,6 @@
 import random
 choiced=random.randint(1,100)
-print(choiced)
+
 while True:
     number=int(input("number:"))
     if number==choiced:
