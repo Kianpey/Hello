@@ -10,3 +10,4 @@ if s.status_code == 200:
     img.show()
 else:
     print(f"Error: {s.status_code}")
+
